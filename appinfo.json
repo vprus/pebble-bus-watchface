@@ -1,0 +1,17 @@
+{
+  "uuid": "918f0a70-356c-49d2-885b-ec873e448069",
+  "shortName": "bus-watchface",
+  "longName": "Next Bus Watchface",
+  "companyName": "Vladimir Prus",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

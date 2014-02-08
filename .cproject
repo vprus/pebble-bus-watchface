@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug.72040754">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug.72040754" moduleId="org.eclipse.cdt.core.settings" name="Debug">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildProperties="" description="" id="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug.72040754" name="Debug" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug.72040754.964139892" name="/" resourcePath="">
+						<toolChain id="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug.1438807210" name="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug">
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.board.1206873426" name="Board" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.board"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.memory.271175507" name="Profile" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.memory"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.hosting.1048705772" name="Hosting" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.hosting"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.cpu.356591499" name="Processor" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.cpu"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.endian.1108680924" name="Endianness" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.endian"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.thumb.522155718" name="ARM/Thumb Mode" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.thumb"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.float-abi.1045842872" name="Hard/Soft Float" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.float-abi"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.fpu.837632183" name="FPU" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.fpu"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.multilib.1488247965" name="Selected libraries" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.multilib"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.toolchainversion.869563232" name="Toolchain Version" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.toolchainversion"/>
+							<option id="com.codesourcery.arm_none_eabi.exe.debug.general.useDifferentToolchainversion.1925335726" name="Use different Toolchain Version" superClass="com.codesourcery.arm_none_eabi.exe.debug.general.useDifferentToolchainversion"/>
+							<targetPlatform binaryParser="org.eclipse.cdt.core.ELF" id="com.codesourcery.arm_none_eabi.cdt.managedbuild.target.gnu.platform.exe.debug.1989954276" name="Debug Platform" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.target.gnu.platform.exe.debug"/>
+							<builder id="com.codesourcery.arm_none_eabi.cdt.managedbuild.target.gnu.builder.exe.debug.304422671" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.target.gnu.builder.exe.debug"/>
+							<tool id="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.c.compiler.exe.debug.113513852" name="Sourcery CodeBench C Compiler" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.c.compiler.exe.debug">
+								<option id="gnu.c.compiler.option.include.paths.468690731" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="/home/ghost/Install/PebbleSDK-2.0.0/Pebble/include"/>
+								</option>
+								<inputType id="com.codesourcery.target.data.arm_none_eabi.c.compiler.exe.debug.input.136799876" superClass="com.codesourcery.target.data.arm_none_eabi.c.compiler.exe.debug.input"/>
+							</tool>
+							<tool id="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1841146992" name="Sourcery CodeBench C++ Compiler" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug"/>
+							<tool id="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.assembler.exe.debug.913070177" name="Sourcery CodeBench Assembler" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.assembler.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1064782994" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+							<tool id="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.c.linker.exe.debug.1787850621" name="Sourcery CodeBench C Linker" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.c.linker.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.c.linker.input.918708338" superClass="cdt.managedbuild.tool.gnu.c.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.145322707" name="Sourcery CodeBench C++ Linker" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.cpp.linker.exe.debug"/>
+							<tool id="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.objcopy.exe.debug.511740582" name="Sourcery CodeBench Objcopy" superClass="com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.objcopy.exe.debug"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="pebble-bus-watchface.null.393372812" name="pebble-bus-watchface"/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug.72040754;com.codesourcery.arm_none_eabi.cdt.managedbuild.toolchain.gnu.exe.debug.72040754.964139892;com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.c.compiler.exe.debug.113513852;com.codesourcery.target.data.arm_none_eabi.c.compiler.exe.debug.input.136799876">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.codesourcery.target.data.arm_none_eabi.SGPPManagedMakePerProjectProfileC"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.codesourcery.arm_none_eabi.cdt.managedbuild.config.gnu.exe.release.1819967681;com.codesourcery.arm_none_eabi.cdt.managedbuild.config.gnu.exe.release.1819967681.;com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.c.compiler.exe.release.1477466143;com.codesourcery.target.data.arm_none_eabi.c.compiler.exe.release.input.512199966">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.codesourcery.target.data.arm_none_eabi.SGPPManagedMakePerProjectProfileC"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.codesourcery.arm_none_eabi.cdt.managedbuild.config.gnu.exe.debug.926135194;com.codesourcery.arm_none_eabi.cdt.managedbuild.config.gnu.exe.debug.926135194.;com.codesourcery.arm_none_eabi.cdt.managedbuild.tool.gnu.c.compiler.exe.debug.259929758;com.codesourcery.target.data.arm_none_eabi.c.compiler.exe.debug.input.1640283362">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.codesourcery.target.data.arm_none_eabi.SGPPManagedMakePerProjectProfileC"/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+</cproject>
